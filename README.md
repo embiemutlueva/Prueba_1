@@ -1,2 +1,7 @@
 # Prueba_1
-Git de repaso de lo aprendido
+Primer repositorio de GitHub
+
+esto ed -cursiva_ y la negrita es **así**
+
+[ITC Cuatrovientos](
+
