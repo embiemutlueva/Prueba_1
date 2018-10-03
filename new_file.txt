@@ -1,1 +1,3 @@
+Hola clase
 
+Modificando la Brunch patch-2 (Actualizado)
